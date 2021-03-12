@@ -1,0 +1,158 @@
+{
+  "pizza-massas": [
+    {
+      "id": 0,
+      "nome": "Massa Tradicional"
+    },
+    {
+      "id": 1,
+      "nome": "Massa Fina"
+    }
+  ],
+  "pizza-tamanhos": [
+    {
+      "id": 1,
+      "nome": "Brotinho",
+      "preço": 24.9
+    },
+    {
+      "id": 2,
+      "nome": "Média",
+      "preço": 52.9
+    },
+    {
+      "id": 3,
+      "nome": "Grande",
+      "preço": 62.9
+    },
+    {
+      "id": 4,
+      "nome": "Giga",
+      "preço": 70.9
+    }
+  ],
+  "pizza-recheios": [
+    {
+      "id": 1,
+      "nome": "Calabresa",
+      "descricao": "Mussarela, calabresa, cebola e orégano."
+    },
+    {
+      "id": 2,
+      "nome": "Portuguesa",
+      "descricao": "Mussarela, presunto, ovo de codorna, azeitona preta, cebola, pimentão verde."
+    },
+    {
+      "id": 3,
+      "nome": "Toscana",
+      "descricao": "Mussarela, linguiça calabresa, requeijão, azeitona preta, cebola, tomate fresco, manjericão e orégano"
+    },
+    {
+      "id": 4,
+      "nome": "Frango com catupiry",
+      "descricao": "Molho de tomate, milho verde, frango desfiado, mussarela, catupiry e orégano."
+    },
+    {
+      "id": 5,
+      "nome": "Mussarela",
+      "descricao": "Queijo mussarela e orégano."
+    },
+    {
+      "id": 6,
+      "nome": "Napolitana",
+      "descricao": "Mussarela, tomate fresco, parmessão ralado e orégano."
+    },
+    {
+      "id": 7,
+      "nome": "Pepperoni",
+      "descricao": "ussarela, pepperoni e orégano."
+    },
+    {
+      "id": 8,
+      "nome": "3 Queijos",
+      "descricao": "Mussarela, requeijão, parmesão ralado e orégano."
+    },
+    {
+      "id": 9,
+      "nome": "Bauru",
+      "descricao": "Mussarela, requeijão, presunto, tomate fresco e orégano."
+    },
+    {
+      "id": 10,
+      "nome": "Toscana",
+      "descricao": "Mussarela, linguiça calabresa, requeijão, azeitona preta, cebola, tomate fresco, manjericão e orégano."
+    }
+  ],
+  "destaque-dia": [
+    {
+      "id": 1,
+      "nome": "Pizza Calabresa",
+      "tamanho": "GRANDE",
+      "massa": "FINA",
+      "dia": "Segunda",
+      "preço": 45,
+      "pontos": 3.5
+    },
+    {
+      "id": 2,
+      "nome": "Pizza Toscana",
+      "tamanho": "MÉDIA",
+      "massa": "TRADICIONAL",
+      "dia": "Terça",
+      "preço": 35,
+      "pontos": 2
+    },
+    {
+      "id": 3,
+      "nome": "Pizza Frango com catupiry",
+      "tamanho": "GIGA",
+      "massa": "TRADICIONAL",
+      "dia": "Quarta",
+      "preço": 55,
+      "pontos": 5
+    },
+    {
+      "id": 4,
+      "nome": "Pizza Napolitana",
+      "tamanho": "BROTINHO",
+      "massa": "FINA",
+      "dia": "Quinta",
+      "preço": 15,
+      "pontos": 1
+    },
+    {
+      "id": 5,
+      "nome": "Pizza Marguerita",
+      "tamanho": "GIGA",
+      "massa": "TRADICIONAL",
+      "dia": "Sexta",
+      "preço": 55,
+      "pontos": 5
+    },
+    {
+      "id": 6,
+      "nome": "Pizza 3 Queijos",
+      "tamanho": "GIGA",
+      "massa": "TRADICIONAL",
+      "dia": "Sábado",
+      "preço": 55,
+      "pontos": 5
+    },
+    {
+      "id": 7,
+      "nome": "Pizza Pepperoni",
+      "tamanho": "MÉDIA",
+      "massa": "TRADICIONAL",
+      "dia": "Domingo",
+      "preço": 35,
+      "pontos": 2
+    }
+  ],
+  "usuario": {
+    "id": 1,
+    "nome": "Matheus",
+    "pontos": 0
+  },
+  "pedidos": [
+  ]
+}
