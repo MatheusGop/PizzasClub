@@ -19,12 +19,12 @@ Para rodar o back-end, execute os seguintes comandos:
 ####iOS
 
 Para rodar o aplicativo no iOS, execute os seguintes comandos:
-- npm install ou yarn
+- npm install
 - cd iOS e pod install
 - npx react-native run-ios
 
 ####Android
 
 Para rodar o aplicativo no Android, execute os seguintes comandos:
-- npm install ou yarn
+- npm install
 - npx react-native run-android
